@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://media.elestimulo.com/2015/01/ajiaco.jpg");
+  display: flex;
+  justify-content: center;
+  width: 100vw; 
+  height: 100vh;
+  margin: auto;
+  font-family: 'ABeeZee';
+}
+
+#main {
+  margin: auto;
+  text-align: center;
+  color: white;
+}
+
+#profile-picture {
+  height: 200px;
+  border-radius: 100%;
+  border: solid white 5px;
+}
+
+#city {
+  margin-top: -10px;
+  font-size: 17px;
+  font-weight: lighter;
+}
